@@ -1,0 +1,7 @@
+item_url = f'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/{item_name}.png'
+pokemon_url = f'https://play.pokemonshowdown.com/sprites/gen5/{name}.png'
+type_url = f'https://play.pokemonshowdown.com/sprites/types/{Capital_name}.png'
+
+move_catecory = 'https://play.pokemonshowdown.com/sprites/categories/Special.png'
+                'https://play.pokemonshowdown.com/sprites/categories/Status.png'
+                'https://play.pokemonshowdown.com/sprites/categories/Physical.png'
